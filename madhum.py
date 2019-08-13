@@ -1,5 +1,5 @@
-a = 150
-b = 160
+a = 360
+b = 380
 for n in range(a, b + 1):
    order = len(str(n))
    sum = 0
